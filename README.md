@@ -8,7 +8,7 @@ https://dannyberns.github.io/Gym-LandingPage/
 
 
 ## Screenshots
-![App Screenshot](https://i.ibb.co/M1Mq8gx/gym-landing-page.png)
+![App Screenshot](https://i.ibb.co/1Kjkdr7/gym-landing-page.png)
 
 
 
