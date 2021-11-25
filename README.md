@@ -1,4 +1,4 @@
-# Gym - Landing Page
+# Gym
 
 Gym Landing page
 
