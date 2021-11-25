@@ -1,0 +1,60 @@
+// Smartphones
+@media (max-width: 500px) {
+  #main-nav,
+  #contact .text-wrapper,
+  #info-b .container,
+  #footer .footer-content {
+    flex-direction: column;
+  }
+
+  #contact .text-wrapper {
+    justify-content: center;
+    text-align: center;
+
+    .section-title {
+      text-align: center;
+    }
+  }
+
+  #info-b {
+    .content-wrapper {
+      margin-top: 3rem;
+      text-align: center;
+    }
+
+    &.reverse .container {
+      flex-direction: column;
+    }
+
+    &:before {
+      display: none;
+    }
+  }
+
+  #services .services-grid,
+  #trainers .trainers-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-title {
+    padding-bottom: 1.5rem;
+  }
+
+  #footer {
+    height: 7rem;
+
+    .footer-content {
+      padding: 1rem;
+      height: 7rem;
+      justify-content: space-evenly;
+
+      h1 {
+        display: none;
+      }
+
+      .social .fa-linkedin {
+        margin-right: 0;
+      }
+    }
+  }
+}
